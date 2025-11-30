@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+
+# Environment variables (keep secrets safe!)
+.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Model checkpoints and outputs
+my-model-checkpoints/
+outputs/
+wandb/
+artifacts/
+
+# Large model files (if any are saved locally)
+*.bin
+*.safetensors
+*.gguf
+model-gguf/
+merged_model/
+
+# IDE settings
+.vscode/
+.idea/
