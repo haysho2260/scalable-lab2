@@ -1,4 +1,0 @@
-gradio 
-requests
-llama-cpp-python
-huggingface_hub

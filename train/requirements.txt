@@ -1,9 +1,0 @@
-unsloth
-wandb
-transformers
-trl
-peft
-accelerate
-bitsandbytes
-python-dotenv
-huggingface_hub
