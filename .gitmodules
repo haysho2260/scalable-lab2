@@ -1,0 +1,6 @@
+[submodule "path/where/you/want/it"]
+	path = path/where/you/want/it
+	url = https://huggingface.co/spaces/hayitsmaddy/scalable_lab2
+[submodule "webApp"]
+	path = webApp
+	url = https://huggingface.co/spaces/hayitsmaddy/scalable_lab2
